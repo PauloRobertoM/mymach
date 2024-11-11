@@ -60,6 +60,7 @@
                                     <input type="phone" class="form-control" name="telefone" id="modelo" placeholder="TELEFONE">
                                 </div>
                             </div>
+                            <button>Enviar</button>
                         </form>
                     </div><!-- col-md-8 -->
                     <div class="col-md-4">
@@ -87,25 +88,25 @@
                     <div class="row">
                         <div class="col-md-3">
                             <div class="card">
-                                <img src="images/limpeza.png">
+                                <img src="http://betilha.local/wp-content/themes/mymach/assets/images/limpeza.png">
                                 <div><span>Contrate</span><h2>Diarista</h2></div>
                             </div><!-- card -->
                         </div><!-- col-md-3 -->
                         <div class="col-md-3">
                             <div class="card">
-                                <img src="images/tomada-eletrica.png" alt="">
+                                <img src="http://betilha.local/wp-content/themes/mymach/assets/images/tomada-eletrica.png" alt="">
                                 <div><span>Contrate</span><h2>Eletricista</h2></div>
                             </div><!-- card -->
                         </div><!-- col-md-3 -->
                         <div class="col-md-3">
                             <div class="card">
-                                <img src="images/chave-inglesa.png" alt="">
+                                <img src="http://betilha.local/wp-content/themes/mymach/assets/images/chave-inglesa.png" alt="">
                                 <div><span>Contrate</span><h2>Faz Tudo</h2></div>
                             </div><!-- card -->
                         </div><!-- col-md-3 -->
                         <div class="col-md-3">
                             <div class="card">
-                                <img src="images/encanador.png" alt="">
+                                <img src="http://betilha.local/wp-content/themes/mymach/assets/images/encanador.png" alt="">
                                 <div><span>Contrate</span><h2>Encanador</h2></div>
                             </div><!-- card -->
                         </div><!-- col-md-3 -->

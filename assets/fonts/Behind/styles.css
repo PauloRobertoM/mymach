@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Behind The Nineties Medium';
+  src: url(./Behind+The+Nineties+Medium.eot);
+  src: url(./Behind+The+Nineties+Medium.eot?#iefix) format('embedded-opentype'),
+       url(./Behind+The+Nineties+Medium.otf) format('otf'),
+       url(./Behind+The+Nineties+Medium.svg#Behind%20The%20Nineties%20Medium) format('svg'),
+       url(./Behind+The+Nineties+Medium.ttf) format('truetype'),
+       url(./Behind+The+Nineties+Medium.woff) format('woff'),
+       url(./Behind+The+Nineties+Medium.woff2) format('woff2');
+}

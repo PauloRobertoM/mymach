@@ -2,14 +2,14 @@
 
     <section class="interna locacao">
         <div class="topo-interno">
-            <a class="text-[30px] text-[#00448F] font-semibold text-center flex gap-2">LOCAÇÃO E VENDAS</a>
+            <a class="text-[30px] text-[#00448F] font-semibold text-center flex gap-2">PEÇAS</a>
         </div><!-- topo-interno -->
 
         <div class="container">
             <div class="form-procura">
-                <h2>Compre ou alugue a máquina que precisa</h2>
-                <p>Encontre milhares de máquinas disponíveis em qualquer região do Brasil, filtre por categoria, marca ou localização</p>
-                <a class="btn-anunciar" href="">Quero anunciar minha máquina</a>
+                <h2>Compre peças</h2>
+                <p>Encontre revendas de peças na sua região</p>
+                <a class="btn-anunciar" href="">Quero cadastrar minha empresa</a>
             </div><!-- form-procura -->
 
             <div class="listagem-produtos">
@@ -23,20 +23,14 @@
                                 <select class="form-control" id="cidades">
                                 </select>
                                 <select class="form-control" id="tipo">
-                                    <option value="">QUAL TIPO DE SERVIÇO?</option>
+                                    <option value="">Seguimento</option>
                                     <option value="">Borracharia</option>
                                     <option value="">Elétrica</option>
                                 </select>
                                 <select class="form-control" id="equipamento">
-                                    <option value="">EQUIPAMENTO</option>
+                                    <option value="">Localização</option>
                                     <option value="">Caminhão</option>
                                     <option value="">Colheitadeira</option>
-                                </select>
-                                <input type="text" class="form-control" name="modelo" id="modelo" placeholder="MODELO">
-                                <select class="form-control" id="quando">
-                                    <option value="">ATENDIMENTO PARA QUANDO?</option>
-                                    <option value="">Imediato</option>
-                                    <option value="">Até 5 dias</option>
                                 </select>
                                 <button>Filtrar</button>
                             </form>

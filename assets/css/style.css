@@ -808,15 +808,15 @@ section.treinamentos {
     color: #005095;
 }
 
-.locacao .form-procura h2 {
+.form-procura h2 {
     text-align: center;
     margin: 0 0 10px;
 }
-.locacao .form-procura p {
+.form-procura p {
     font-size: 18px;
     text-align: center;
 }
-.locacao .form-procura a {
+.form-procura a {
     font-size: 14px;
     font-weight: 600;
     line-height: 20px;
@@ -826,6 +826,20 @@ section.treinamentos {
     border-radius: 8px;
     display: table;
     margin: 0 auto;
+}
+.form-procura button {
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 20px;
+    color: #0679DE;
+    background: #fed954;
+    padding: 20px 20px;
+    border-radius: 50px;
+    display: table;
+    margin: 0 auto;
+    width: 50%;
+    border: none;
+    margin-top: 20px;
 }
 
 .listagem-produtos {
@@ -837,6 +851,7 @@ section.treinamentos {
     box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
     border-radius: .75rem;
     height: 320px;
+    margin-bottom: 30px;
 }
 .img-produto {
     background-color: rgb(209 213 219);
@@ -851,16 +866,43 @@ section.treinamentos {
 .conteudo-produto {
     font-weight: 700;
     padding: 1.25rem;
+    color: #333;
 }
 .preco-produto {
-        color: rgb(0 68 143 / var(--tw-text-opacity));
-    }
+    color: rgb(0 68 143);
+    font-size: 22px;
+    margin-top: 1.25rem;
+}
 
-    .text-\[22px\] {
-        font-size: 22px;
-    }
-    .mt-5 {
-        margin-top: 1.25rem;
+.filtros select.form-control,
+.filtros input.form-control {
+    color: #524f4f;
+    height: 40px;
+    border-radius: 50px;
+    font-size: 12px;
+    border: 2px solid #ccc;
+    margin-bottom: 20px;
+}
+.filtros .form-control::placeholder {
+    color: #524f4f;
+    font-size: 12px;
+}
+.filtros .form-control::-ms-input-placeholder {
+    color: #524f4f;
+    font-size: 12px;
+}
+.filtros button {
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 20px;
+    color: #0679DE;
+    background: #fed954;
+    padding: 10px 20px;
+    border-radius: 50px;
+    display: table;
+    width: 100%;
+    border: none;
+    margin-top: 20px;
 }
 
 /* --- MOBILE --- */

@@ -905,6 +905,63 @@ section.treinamentos {
     margin-top: 20px;
 }
 
+.interna.cadastro h1 {
+    font-weight: 700;
+    font-size: 22px;
+}
+.interna.cadastro .flex.flex-col.border-solid {
+    margin-bottom: 30px;
+}
+.interna.cadastro h2 {
+    font-weight: 400;
+    font-size: 16px;
+    text-align: right;
+}
+.interna.cadastro label {
+    font-weight: 400;
+}
+.interna.cadastro .flex.flex-col.border-solid label {
+    display: block;
+    margin-bottom: 0;
+}
+.interna.cadastro .flex.flex-col.border-solid input {
+    width: 100%;
+    border: none;
+    border-bottom: 2px solid #ccc;
+}
+.interna.cadastro .flex.w-\[80\%\].xl\:w-\[60\%\].mt-3.items-start {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 20px;
+}
+.interna.cadastro .flex.w-\[80\%\].xl\:w-\[60\%\].mt-3.items-start label {
+    font-weight: bold;
+}
+.interna.cadastro .flex.w-\[80\%\].xl\:w-\[60\%\].mt-3.items-start input {
+    margin-right: 5px;
+}
+.interna.cadastro button {
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 20px;
+    color: #0679DE;
+    background: #fed954;
+    padding: 20px 20px;
+    border-radius: 50px;
+    display: table;
+    width: 60%;
+    border: none;
+    margin: 30px auto 100px;
+}
+.interna.cadastro {
+    padding-bottom: 0;
+}
+
+.lateral1 {
+    border-right: 3px solid #fed954;
+    padding-right: 30px;
+}
+
 /* --- MOBILE --- */
 @media (max-width: 767px) {
     .container>.navbar-header {

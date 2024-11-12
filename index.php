@@ -59,21 +59,21 @@
             <div class="row">
                 <div class="col-md-4">
                     <div class="card">
-                        <!-- <img src="assets/images/limpeza.png"> -->
+                        <i class="fa fa-file-text" aria-hidden="true"></i>
                         <h4>Solicite seu orçamento</h4>
                         <p>Diga do que você precisa, é rápido, fácil e de graça.</p>
                     </div><!-- card -->
                 </div><!-- col-md-4 -->
                 <div class="col-md-4">
                     <div class="card">
-                        <!-- <img src="assets/images/tomada-eletrica.png" alt=""> -->
+                        <i class="fa fa-comments" aria-hidden="true"></i>
                         <h4>Receba até 5 orçamentos</h4>
                         <p>Profissionais qualificados entram em contato com você em instantes!</p>
                     </div><!-- card -->
                 </div><!-- col-md-4 -->
                 <div class="col-md-4">
                     <div class="card">
-                        <!-- <img src="assets/images/chave-inglesa.png" alt=""> -->
+                        <i class="fa fa-thumbs-o-up" aria-hidden="true"></i>
                         <h4>Escolha o melhor</h4>
                         <p>Negocie direto com eles por Whatsapp, fácil e sem burocracias.</p>
                     </div><!-- card -->

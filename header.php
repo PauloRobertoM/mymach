@@ -103,7 +103,6 @@
                                 <li><a href="">Treinamento</a></li>
                                 <li><a href="">Blog</a></li>
                                 <li><a href="">Saiba mais</a></li>
-                                <li><a href="">Contato</a></li>
                                 <li><a href="">Login</a></li>
                             </ul><!-- .nav -->
                         </div><!-- .navbar-collapse -->

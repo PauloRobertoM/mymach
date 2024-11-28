@@ -224,7 +224,7 @@ ul.nav>li>a.active {
     font-size: 14px;
     font-weight: 600;
     line-height: 20px;
-    color: #0679DE;
+    color: #00448f;
     background: #fff;
     padding: 10px 20px;
     border-radius: 8px;
@@ -306,7 +306,7 @@ ul.nav>li>a.active {
     font-size: 14px;
     font-weight: 600;
     line-height: 20px;
-    color: #0679DE;
+    color: #00448f;
     background: #fff;
     padding: 10px 20px;
     border-radius: 8px;
@@ -354,7 +354,7 @@ ul.nav>li>a.active {
     margin-top: 40px;
 }
 .servico-locacao .botoes a.btn-orcamento {
-    color: #0679DE;
+    color: #00448f;
     background: #fed954;
     margin-left: 20px;
 }
@@ -369,7 +369,7 @@ ul.nav>li>a.active {
     display: table;
 }
 .servico-locacao .botoes a:hover {
-    background: #0679DE;
+    background: #00448f;
     color: #fff;
 }
 
@@ -747,7 +747,7 @@ section.treinamentos {
     font-size: 14px;
     font-weight: 600;
     line-height: 20px;
-    color: #0679DE;
+    color: #00448f;
     background: #fed954;
     padding: 10px 20px;
     border-radius: 8px;
@@ -791,7 +791,7 @@ section.treinamentos {
     font-size: 18px;
     font-weight: 600;
     line-height: 20px;
-    color: #0679DE;
+    color: #00448f;
     background: #fed954;
     padding: 20px 40px;
     border-radius: 8px;
@@ -847,7 +847,7 @@ section.treinamentos {
     font-size: 14px;
     font-weight: 600;
     line-height: 20px;
-    color: #0679DE;
+    color: #00448f;
     background: #fed954;
     padding: 10px 20px;
     border-radius: 8px;
@@ -858,7 +858,7 @@ section.treinamentos {
     font-size: 18px;
     font-weight: 600;
     line-height: 20px;
-    color: #0679DE;
+    color: #00448f;
     background: #fed954;
     padding: 20px 20px;
     border-radius: 50px;
@@ -922,7 +922,7 @@ section.treinamentos {
     font-size: 16px;
     font-weight: 600;
     line-height: 20px;
-    color: #0679DE;
+    color: #00448f;
     background: #fed954;
     padding: 10px 20px;
     border-radius: 50px;
@@ -971,7 +971,7 @@ section.treinamentos {
     font-size: 18px;
     font-weight: 600;
     line-height: 20px;
-    color: #0679DE;
+    color: #00448f;
     background: #fed954;
     padding: 20px 20px;
     border-radius: 50px;
@@ -1070,7 +1070,7 @@ section.treinamentos {
     font-size: 14px;
     font-weight: 600;
     line-height: 20px;
-    color: #0679DE;
+    color: #00448f;
     background: #fed954;
     padding: 10px 20px;
     border-radius: 8px;
@@ -1253,6 +1253,57 @@ section.treinamentos {
 }
 .box2-flex1 .font-bold {
     font-weight: bold;
+}
+
+.vitrine-internas h2 {
+    text-align: left;
+    border-bottom: 5px solid #e5e5e5;
+    padding-bottom: 20px;
+}
+.vitrine-internas p {
+    text-align: left;
+}
+h4.preco {
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+    background: #e5e5e5;
+    padding: 15px;
+    border-radius: 10px;
+    margin: 30px 0 0;
+}
+.owl-internas {
+    margin-top: 60px;
+}
+.owl-internas img {
+    height: 480px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+.interna.internas .flex.flex-col.border-solid textarea {
+    width: 100%;
+    border: none;
+    border-bottom: 2px solid #ccc;
+    height: 100px;
+}
+.interna.internas .cadastro .btns-flex {
+    display: flex;
+    justify-content: center;
+}
+.interna.internas .cadastro button {
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 20px;
+    padding: 15px 40px;
+    border-radius: 50px;
+    display: table;
+    width: auto;
+    border: none;
+    margin: 20px 5px 0;
+}
+.interna.internas .cadastro button.btn-voltar {
+    color: #fed954;
+    background: #00448f;
 }
 
 /* --- MOBILE --- */
